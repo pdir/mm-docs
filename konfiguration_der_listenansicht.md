@@ -32,3 +32,9 @@ geo.ort
 **Speichern** Sie die **Einstellungen** des Moduls und rufen Sie folgende **URL** in Ihrem Browser auf: **http://www.ihre-domain.de/system/modules/makler_modul_mplus/assets/indexer.php**.
 
 Nun sollten Sie in der Listenansicht Filter-Buttons für die oben genannten Felder finden. Für jeden Wert der mindestens einmal in einem Objekt vorhanden ist, wird ein Button generiert.
+
+# Sortiermöglichkeiten in der Listenansicht
+
+Sie haben die Möglichkeit Ihre Immobilien in der Listenansicht Ihrer Homepage nach einen bestimmten Feld zu sortieren. Soll keine Sortierung vorgenommen werden, dann stellen Sie es wie im folgenden Bild ein.
+
+![](Sortieren.png)
