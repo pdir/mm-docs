@@ -1,5 +1,5 @@
 # Summary
 
 * [Installation](installation.md)
-* Einrichtung
+* [Einrichtung](einrichtung.md)
 
