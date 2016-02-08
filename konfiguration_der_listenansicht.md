@@ -1,0 +1,2 @@
+# Konfiguration der Listenansicht
+
