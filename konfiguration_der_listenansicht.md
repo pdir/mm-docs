@@ -16,7 +16,7 @@ anhaenge.anhang.#1.anhangtitel
 
 Wenn Sie nun die Seite mit Ihrer Listenansicht aktualisieren, werden Sie festellen, dass der Filter verschwunden ist. Dies liegt daran, dass die Standardeinstellungen nicht mehr greifen, sobald im Feld Dargestellte Felder etwas eingetragen wurde.
 
-Um Ihren Kunden die Filterung nach Nutzungsart, Vermarktungsart und Ort zu filtern, ergänzen Sie in jeweils in beiden Felder folgende Zeilen:
+Um Ihren Kunden die Filterung nach Nutzungsart, Vermarktungsart und Ort zu ermöglichen, ergänzen Sie in jeweils beiden Felder folgende Zeilen:
 
 >objektkategorie.nutzungsart.@WAZ<br>
 objektkategorie.nutzungsart.@GEWERBE<br>
