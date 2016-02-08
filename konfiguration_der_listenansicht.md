@@ -33,8 +33,31 @@ geo.ort
 
 Nun sollten Sie in der Listenansicht Filter-Buttons für die oben genannten Felder finden. Für jeden Wert der mindestens einmal in einem Objekt vorhanden ist, wird ein Button generiert.
 
-# Sortiermöglichkeiten in der Listenansicht
-
-Sie haben die Möglichkeit Ihre Immobilien in der Listenansicht Ihrer Homepage nach einen bestimmten Feld zu sortieren. Soll keine Sortierung vorgenommen werden, dann stellen Sie es wie im folgenden Bild ein.
+### Sortierung
+Sie haben die Möglichkeit Ihre Immobilien in der Listenansicht Ihrer Homepage nach einen bestimmten Feld zu sortieren.
 
 ![](Sortieren.png)
+
+Bei **Feldauswahl** können Sie auswählen, nach welchem Feld sortiert werden soll.<br>
+Bei **Feldtyp** wählen Sie den Feldtyp (Zahl, Gleitkommazahl oder Text) aus.<br>
+Bei **Sortierung** wählen Sie aus ob sie aufsteigend oder absteigend sortieren lassen wollen.
+
+### Bedingungen
+
+![](Bedingungen.png)
+
+Das Feld **Bedingungen** dient zur Reduzierung der Ergebnisse nach bestimmten Kriterien. Wollen Sie z. B. nur Objekte in Leipzig angezeigt haben, können SIe hier folgendes eingeben: **geo.ort=Leipzig** (auf Groß- und Kleinschreibung achten!).
+
+### Bildeinstellungen
+
+![](Bildeinstellungen.png)
+
+...
+
+### Paginierung
+
+...
+
+### Optionen
+
+...
