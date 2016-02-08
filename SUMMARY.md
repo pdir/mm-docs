@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Installation](installation.md)
-* Konfiguration der Listenansicht
+* [Konfiguration der Listenansicht](konfiguration_der_listenansicht.md)
 
