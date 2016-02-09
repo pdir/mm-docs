@@ -20,7 +20,7 @@ Dieses Modul ist auf den Anwendungsfall  "Makler mit Immobliensoftware möchte s
 
 ### Unterstütze Maklersoftware
 
-Wir unterstützen alle gängigen Maklersoftware-Lösungen, wie z.B.:
+Wir unterstützen alle gängigen Maklersoftware-Lösungen auf Basis von OpenImmo, wie z.B.:
 * onOffice
 * FlowFact
 * openestate
