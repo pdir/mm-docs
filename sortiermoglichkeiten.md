@@ -22,7 +22,7 @@ Das Feld **Bedingungen** dient zur Reduzierung der Ergebnisse nach bestimmten Kr
 
 Bei **Bildbreite** und **Bildhöhe** gibt man eine Angabe der Breite bzw. der Höhe in Pixel an. Standards sind für die Breite 293px, für die Höhe 220px.
 
-**Bildmodus** gibt die Ausrichtung des Bildes in der Listenansicht an. Folgende Angaben sind möglich:
+**Bildmodus** gibt an wie das Bild in der Listenansicht an die entsprechende Bildbreite und -höhe skaliert wird. Folgende Angaben sind möglich:
 * 
 **proportional:** 
 * 
