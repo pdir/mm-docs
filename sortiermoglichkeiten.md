@@ -30,23 +30,23 @@ Bei **Bildbreite** und **Bildh√∂he** gibt man eine Angabe der Breite bzw. der H√
 * 
 **crop:**
 * 
-**left_top:**
+**left_top:** linker oberer Bildausschnitt
 * 
-**center_top:**
+**center_top:** mittige obere Bildausschnitt
 * 
-**right_top:**
+**right_top:** rechte obere Bildausschnitt
 * 
-**left_center:**
+**left_center:** linke mittige Bildausschnitt
 * 
-**center_center:**
+**center_center:** mittige Bildausschnitt
 * 
-**right_center:**
+**right_center:** rechte mittige Bildausschnitt
 * 
-**left_bottom:**
+**left_bottom:** linke untere Bildausschnitt
 * 
-**center_bottom:**
+**center_bottom:** mittige untere Bildausschnitt
 * 
-**right_bottom:** 
+**right_bottom:** rechte untere Bildausschnitt
 
 
 
