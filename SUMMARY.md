@@ -3,7 +3,7 @@
 * [Einleitung](README.md)
 * [Installation und Einrichtung](installation_und_einrichtung.md)
 * [Installation](installation.md)
-* [Allgemein](allgemein.md)
+* [Allgemein](allgemeinmd.md)
    * [Einrichtung](einrichtung.md)
    * [Bezeichnungen & Übersetzungen](bezeichnungen_&_ubersetzungen.md)
    * [Zusätzliche Felder](zusatzliche_felder.md)
