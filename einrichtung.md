@@ -10,6 +10,8 @@ Wenn Sie das files-Verzeichnis geändert haben, müssen sie über das FTP-Progra
 
 * 
 unter Backend-Module **Layout** den Punkt **Themes** wählen und für das Theme Ihrer Webseite das Icon **Die Frontend-Module des Themes ID … bearbeiten** auswählen
+
+![](einrichtung-schritt1.png)
 * 
 dort **Neues Modul** auswählen – für die Listenansicht
  * Titel für die **Immobilienliste** eingeben und bei Modultyp unter **MaklerModulMplus**
@@ -17,6 +19,8 @@ den Eintrag Immobilienliste auswählen
  * bei **Detailansicht** die entsprechende Seite auswählen
  * bei **Immobilien** Templates den Eintrag **makler_list** wählen
  * **Speichern und schliessen** klicken
+
+
 * 
 noch einmal **Neues Modul** auswählen – für die Detailansicht
  * Titel für die Detailansicht eingeben und bei Modultyp unter **MaklerModulMplus**
