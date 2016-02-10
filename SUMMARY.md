@@ -1,6 +1,7 @@
 # Summary
 
 * [Einleitung](README.md)
+* Installation und Einrichtung
 * [Allgemein](allgemein.md)
    * [Installation](installation.md)
    * [Einrichtung](einrichtung.md)
@@ -20,5 +21,4 @@
 * Hinweise
    * [Anpassung der Darstellung](anpassung_der_darstellung.md)
    * [Welche Feldschlüssel gibt es?](welche_feldschlussel_gibt_es.md)
-* Installation und Einrichtung
 
