@@ -7,6 +7,8 @@ Ersparen Sie sich das doppelte Pflegen von Inseraten und importieren Sie Ihre Ob
 
 Offizielle Webseite http://www.maklermodul.de/
 
+Demo http://www.maklermodul.de/immoliste.html
+
 ## Beschreibung
 
 Dieses Modul ist auf den Anwendungsfall  "Makler mit Immobliensoftware möchte seine Objekte mit Contao veröffentlichen" ausgelegt. Aus diesem Grund sind keine Möglichkeiten der Immobilien-Bearbeitung integriert. Wenn Sie oder Ihr Kunde also eine Maklersoftware wie FlowFact besitzen oder zukünftig verwenden möchten, ist unser Makler Modul der "Leim" zwischen der Maklersoftware und Contao.
