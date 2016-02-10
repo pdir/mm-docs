@@ -1,6 +1,6 @@
 # Einrichtung
 
-
+### Module anlegen
 
 * 
 unter Backend-Module **Layout** den Punkt **Themes** wählen und für das Theme Ihrer Webseite das Icon **Die Frontend-Module des Themes ID … bearbeiten** auswählen
