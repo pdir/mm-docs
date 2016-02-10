@@ -14,7 +14,7 @@ Bei **Sortierung** wählen Sie aus ob sie aufsteigend oder absteigend sortieren 
 
 ![](Bedingungen.png)
 
-Das Feld **Bedingungen** dient zur Reduzierung der Ergebnisse nach bestimmten Kriterien. Wollen Sie z. B. nur Objekte in Leipzig angezeigt haben, können SIe hier folgendes eingeben: **geo.ort=Leipzig** (auf Groß- und Kleinschreibung achten!). Falls mehrere Bedingungen gewünscht sind, muss jede Bedingung in eine neue Zeile geschrieben werden
+Das Feld **Bedingungen** dient zur Reduzierung der Ergebnisse nach bestimmten Kriterien. Wollen Sie z. B. nur Objekte in Leipzig angezeigt haben, können SIe hier folgendes eingeben: **geo.ort=Leipzig** (auf Groß- und Kleinschreibung achten!). Falls mehrere Bedingungen gewünscht sind, muss jede Bedingung in eine neue Zeile geschrieben werden.
 
 ## Bildeinstellungen
 
