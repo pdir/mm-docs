@@ -1,8 +1,7 @@
 # Summary
 
 * [Einleitung](README.md)
-* Installation und Einrichtung
-   * 
+* [Installation und Einrichtung](installation_und_einrichtung.md)
 * [Installation](installation.md)
 * [Allgemein](allgemein.md)
    * [Einrichtung](einrichtung.md)
