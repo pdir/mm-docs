@@ -1,7 +1,7 @@
 # Summary
 
 * [Einleitung](README.md)
-* Allgemein
+* [Allgemein](allgemein.md)
    * [Installation](installation.md)
    * [Einrichtung](einrichtung.md)
    * [Bezeichnungen & Übersetzungen](bezeichnungen_&_ubersetzungen.md)
