@@ -17,6 +17,8 @@ im **Suchfeld** „makler modul“ eingeben und die Taste **Enter** drücken
 * 
 im Suchergebnis rechts oben in der Ecke das **Symbol** zum **Installieren** klicken
 
+![](Installieren.png)
+
 ODER
 
 * 
