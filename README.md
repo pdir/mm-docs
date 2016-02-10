@@ -1,13 +1,16 @@
 
 # Handbuch
 
-## Makler Modul für Contao - Version 1.4.x [makler_modul_mplus]
+## Makler Modul für Contao
 
 Ersparen Sie sich das doppelte Pflegen von Inseraten und importieren Sie Ihre Objekte direkt aus Ihrer Immobiliensoftware.
 
 Offizielle Webseite http://www.maklermodul.de/
 
 Demo http://www.maklermodul.de/immoliste.html
+
+Version 1.4.x
+Erweiterung [makler_modul_mplus]
 
 ## Beschreibung
 
