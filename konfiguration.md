@@ -33,6 +33,10 @@ geo.plz
 geo.ort
 ```
 
+Die 2 Felder würden nun so aussehen:
+
+![](dargestellte-felder-filter.png)
+
 **Speichern** Sie die **Einstellungen** des Moduls und rufen Sie im Backend-Modul **makler-modul** **Tools** auf und drücken auf **Index aufbauen**.<br>
 Alternativ können Sie den Index auch über den Aufruf folgender URL in ihrem Browser aufbauen: **http://www.ihre-domain.de/system/modules/makler_modul_mplus/assets/indexer.php**.
 
