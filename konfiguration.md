@@ -14,7 +14,8 @@ anhaenge.anhang.#1.format
 anhaenge.anhang.#1.anhangtitel
 ```
 
-**Speichern** Sie die **Einstellungen** des Moduls und rufen Sie folgende **URL** in Ihrem Browser auf: **http://www.ihre-domain.de/system/modules/makler_modul_mplus/assets/indexer.php**.
+**Speichern** Sie die **Einstellungen** des Moduls und rufen Sie im Backend-Modul **makler-modul** **Tools** auf und drücken auf **Index aufbauen**.<br>
+Alternativ können Sie den Index auch über den Aufruf folgender URL in ihrem Browser aufbauen: **http://www.ihre-domain.de/system/modules/makler_modul_mplus/assets/indexer.php**.
 
 Wenn Sie nun die Seite mit Ihrer Listenansicht aktualisieren, werden Sie festellen, dass der Filter verschwunden ist. Dies liegt daran, dass die Standardeinstellungen nicht mehr greifen, sobald im Feld Dargestellte Felder etwas eingetragen wurde.
 
@@ -37,7 +38,6 @@ Die 2 Felder würden nun so aussehen:
 
 ![](dargestellte-felder-filter.png)
 
-**Speichern** Sie die **Einstellungen** des Moduls und rufen Sie im Backend-Modul **makler-modul** **Tools** auf und drücken auf **Index aufbauen**.<br>
-Alternativ können Sie den Index auch über den Aufruf folgender URL in ihrem Browser aufbauen: **http://www.ihre-domain.de/system/modules/makler_modul_mplus/assets/indexer.php**.
+**Speichern** Sie die **Einstellungen** des Moduls und bauen Sie den Index wieder neu auf.
 
 Nun sollten Sie in der Listenansicht Filter-Buttons für die oben genannten Felder finden. Für jeden Wert der mindestens einmal in einem Objekt vorhanden ist, wird ein Button generiert.
