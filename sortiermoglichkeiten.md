@@ -24,11 +24,11 @@ Bei **Bildbreite** und **Bildhöhe** gibt man eine Angabe der Breite bzw. der H�
 
 **Bildmodus** gibt an wie das Bild in der Listenansicht an die entsprechende Bildbreite und -höhe skaliert wird. Folgende Angaben sind möglich:
 * 
-**proportional:** 
+**proportional:** längere Seite des Bildes wird an die Rahmenbox angepasst
 * 
-**box:**
+**box:** die kürzere Seite des Bildes wird an die Rahmenbox angepasst
 * 
-**crop:**
+**crop:** Festlegen eines wichtigen Bereiches (in der Dateiverwaltung im Bild), der als Bildausschnitt genutzt wird
 * 
 **left_top:** linker oberer Bildausschnitt
 * 
