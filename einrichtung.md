@@ -1,12 +1,6 @@
 # Einrichtung
 
-### Hinweis 
-Wenn Sie das files-Verzeichnis geändert haben, müssen sie über das FTP-Programm unter **system/modules/makler_modul_mplus/config** die **import.ini** änderen und das Quell- und Zielverzeichnis ändern. Wenn Sie die dritte Zeile einkommentieren (Schrägstriche entfernen), bleibt die Datei nach dem Import erhalten.
-
-
-
----
-
+### Module anlegen
 
 * 
 unter Backend-Module **Layout** den Punkt **Themes** wählen und für das Theme Ihrer Webseite das Icon **Die Frontend-Module des Themes ID … bearbeiten** auswählen

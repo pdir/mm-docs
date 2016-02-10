@@ -12,6 +12,7 @@ Datei im **Verzeichnis ‚upload‘** befinden.
 
 * Unter Backend-Module **System** den Punkt **Einstellungen** wählen und im Bereich **Maximale Upload-Dateigröße** den Wert erhöhen.
 * Unter Backend-Module **Layout** den Punkt **Theme** wählen und bei dem angelegten Theme das Icon **Layout ID … bearbeiten klicken** und im Bereich **jQuery laden den **Haken setzen**.
+* Wenn Sie das files-Verzeichnis geändert haben, müssen sie über das FTP-Programm unter **system/modules/makler_modul_mplus/config** die **import.ini** änderen und das Quell- und Zielverzeichnis ändern. Wenn Sie die dritte Zeile einkommentieren (Schrägstriche entfernen), bleibt die Datei nach dem Import erhalten.
 
 # Import starten
 
