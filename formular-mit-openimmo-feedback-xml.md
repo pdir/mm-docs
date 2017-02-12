@@ -1,14 +1,16 @@
 # Formular mit Openimmo Feedback XML
 
-Legen Sie über den Formulargenerator ein neues Formular an mit dem Namen "Objektanfrage" an. Fügen Sie die gewünschten Felder und Beschreibungen hinzu. Verwenden Sie als Feldnamen die Felder \(&lt;interessent&gt;\) aus dem Beispiel der Openimmo XML am Ende dieses Artikels. Die Daten für &lt;sender&gt; und &lt;objekt&gt; werden automatisch befüllt.vergessen Sie nicht ein Feld für die Objektnummer, gern auch als Verstecktes Feld, anzulegen.
+Legen Sie über den Formulargenerator ein neues Formular an mit dem Namen "Objektanfrage" an. Fügen Sie die gewünschten Felder und Beschreibungen hinzu. Verwenden Sie als Feldnamen die Felder \(&lt;interessent&gt;\) aus dem Beispiel der Openimmo XML am Ende dieses Artikels. Die Daten für &lt;sender&gt; und &lt;objekt&gt; werden automatisch befüllt.
 
-sdsad![](/assets/formular-anlegen-02.png)
+
+
+![](/assets/formular-anlegen-02.png)
 
 Wählen Sie in den Einstelungen des Formulares als Datenformat "XML-Datei" aus.
 
 ![](/assets/formular-anlegen-01.png)
 
-Platzieren Sie das Modul nun auf der Detailseite Ihrer Immobilienseite. Das Modul ersetzt das Original "form\__xml" \_Template mit dem Template _"form\__openimmo_\_feedback\_xml"\_.
+Platzieren Sie das Modul nun auf der Detailseite Ihrer Immobilienseite. Das Modul ersetzt das Original "form\__xml" _Template mit dem Template "form\__openimmo_\_feedback\_xml".
 
 ## So kann das fertige Formular aussehen
 
@@ -63,8 +65,41 @@ Platzieren Sie das Modul nun auf der Detailseite Ihrer Immobilienseite. Das Modu
         </interessent>
     </objekt>
 </openimmo_feedback>
+```
 
+### Auszug aus der Openimmo Feedback XML Definition V1.25
 
+```
+...
+<xsd:element name="bevorzugt" minOccurs="0" maxOccurs="unbounded"><!--V123 optional-->
+	<xsd:annotation>
+		<xsd:documentation>Bevorzugte Kontaktart des Kunden. Attribut kann mehrfach vorkommen</xsd:documentation>
+	</xsd:annotation>
+	<xsd:simpleType>
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="EMAIL"/>
+			<xsd:enumeration value="TEL"/>
+			<xsd:enumeration value="MOBIL"/>
+			<xsd:enumeration value="FAX"/>
+			<xsd:enumeration value="BRIEF"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+</xsd:element>
+<xsd:element name="wunsch" minOccurs="0" maxOccurs="unbounded"><!--V123 optional-->
+	<xsd:annotation>
+		<xsd:documentation>Der Info-/Aktivitätenwunsch des Kunden. Attribut kann mehrfach vorkommen</xsd:documentation>
+	</xsd:annotation>
+	<xsd:simpleType>
+		<xsd:restriction base="xsd:string">
+			<xsd:enumeration value="BESICHTIGUNG"/>
+			<xsd:enumeration value="ANRUF"/>
+			<xsd:enumeration value="DETAIL"/>
+		</xsd:restriction>
+	</xsd:simpleType>
+</xsd:element>
+<xsd:element name="anfrage" type="xsd:string" minOccurs="0"/><!--V123 optional-->
+<xsd:element ref="user_defined_extend" minOccurs="0" maxOccurs="unbounded"/>
+...
 ```
 
 
