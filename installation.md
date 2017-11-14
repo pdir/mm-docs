@@ -1,1 +1,2 @@
-!REDIRECT "installation_&_einrichtung.md"
+# Installation und Einrichtung
+
