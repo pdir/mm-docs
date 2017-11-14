@@ -19,7 +19,7 @@ den Eintrag Immobilienliste auswählen
 noch einmal **Neues Modul** auswählen – für die Detailansicht
  * Titel für die Detailansicht eingeben und bei Modultyp unter **MaklerModulMplus**
 den Eintrag **Expose** auswählen
- * bei **Immobilien Templates** den Eintrag **makler_details_simple** oder **makler_details_extended** wählen ([Unterschiede der zwei Templates](templates-detailansicht.md))
+ * bei **Immobilien Templates** den Eintrag **makler_details_simple** oder **makler_details_extended** wählen (das extended-Template beinhaltet mehr Felder und den Energiepass mit allen Energieangaben)
  * bei **Immobilienliste** die bereits angelegte Seite, die später die Immobilienliste enthalten soll, auswählen
  * es kann optional ein eigenes **Platzhalter-Bild** gesetzt werden, falls beim Immobilienobjekt in der Detailansicht kein Bild hinterlegt ist. Wird kein Platzhalter-Bild ausgewählt und das Immobilienobjekt besitzt kein Bild, wird ein moduleigenes Platzhalter-Bild dargestellt. 
  * **Speichern und schliessen** klicken
