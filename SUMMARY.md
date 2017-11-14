@@ -2,7 +2,7 @@
 
 * [Einleitung](README.md)
 * [Installation und Einrichtung](installation.md)
-   * [Installation & Einrichtung](installation_&_einrichtung.md)
+   * [Installation](installation_&_einrichtung.md)
    * [Einrichtung](einrichtung.md)
    * [Import](import.md)
 * [Allgemeine Konfiguration](allgemeinmd.md)
