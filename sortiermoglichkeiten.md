@@ -48,7 +48,7 @@ Bei **Bildbreite** und **Bildhöhe** gibt man eine Angabe der Breite bzw. der H�
 * 
 **right_bottom:** rechte untere Bildausschnitt
 
-Außerdem kann ein eigenes **Platzhalter-Bild** gesetzt werden, falls beim Immobilienobjekt in der Listenansicht kein Bild hinterlegt ist. Wird kein Platzhalter-Bild ausgewählt und das Immobilienobjekt besitzt kein Bild, wird ein moduleigenes Platzhalter-Bild dargestellt. 
+Außerdem kann ab Version 1.6.0 ein eigenes **Platzhalter-Bild** gesetzt werden, falls beim Immobilienobjekt in der Listenansicht kein Bild hinterlegt ist. Wird kein Platzhalter-Bild ausgewählt und das Immobilienobjekt besitzt kein Bild, wird ein moduleigenes Platzhalter-Bild dargestellt. 
 
 ### Paginierung
 
