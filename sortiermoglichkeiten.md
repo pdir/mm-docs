@@ -18,7 +18,7 @@ Das Feld **Bedingungen** dient zur Reduzierung der Ergebnisse nach bestimmten Kr
 
 ### Bildeinstellungen
 
-![](Bildeinstellungen.png)
+![](bildeinstellungen.png)
 
 Bei **Bildbreite** und **Bildhöhe** gibt man eine Angabe der Breite bzw. der Höhe in Pixel an. Standards sind für die Breite 293px, für die Höhe 220px.
 
