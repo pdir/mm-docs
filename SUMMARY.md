@@ -12,7 +12,7 @@
    * [Codeschnipsel für kleinere Templateanpassungen](codeschnipsel_fur_kleinere_templateanpassungen.md)
 * Listenansicht
    * [Dargestellte Felder und Filter](konfiguration.md)
-   * [Sortiermöglichkeiten](sortiermoglichkeiten.md)
+   * [Konfiguration der Listenansicht](sortiermoglichkeiten.md)
    * [Typen der Objekteigenschaften](typen_der_objekteigenschaften.md)
 * [Detailansicht](detailansicht.md)
    * [Google Maps integrieren](google_maps_integrieren.md)
