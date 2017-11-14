@@ -11,7 +11,7 @@
    * [Seo, Sitemap & Co.](seo,_sitemap_&_co.md)
    * [Codeschnipsel für kleinere Templateanpassungen](codeschnipsel_fur_kleinere_templateanpassungen.md)
 * Listenansicht
-   * [Konfiguration](konfiguration.md)
+   * [Dargestellte Felder und Filter](konfiguration.md)
    * [Sortiermöglichkeiten](sortiermoglichkeiten.md)
    * [Typen der Objekteigenschaften](typen_der_objekteigenschaften.md)
 * [Detailansicht](detailansicht.md)
