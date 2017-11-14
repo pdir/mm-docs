@@ -4,7 +4,7 @@
 * [Installation und Einrichtung](installation.md)
    * [Einrichtung](einrichtung.md)
    * [Import](import-startenmd.md)
-   * Installation & Einrichtung
+   * [Installation & Einrichtung](installation_&_einrichtung.md)
 * [Allgemeine Konfiguration](allgemeinmd.md)
    * [Bezeichnungen & Übersetzungen](bezeichnungen_&_ubersetzungen.md)
    * [Zusätzliche Felder](zusatzliche_felder.md)
