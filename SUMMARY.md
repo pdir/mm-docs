@@ -21,7 +21,7 @@
    * [Kopfbild mit Überschrift](kopfbild_mit_uberschrift.md)
 * [Das Maklermodul und andere Erweiterungen](das_maklermodul_und_andere_erweiterungen.md)
    * [SWGlossar](swglossar.md)
-* Hinweise
+* [Hinweise](hinweise.md)
    * [Anpassung der Darstellung](anpassung_der_darstellung.md)
    * [Welche Feldschlüssel gibt es?](welche_feldschlussel_gibt_es.md)
 
