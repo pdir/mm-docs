@@ -1,6 +1,6 @@
 # Sortiermöglichkeiten der Listenansicht
 
-## Sortierung
+### Sortierung
 
 Sie haben die Möglichkeit Ihre Immobilien in der Listenansicht Ihrer Homepage nach einen bestimmten Feld zu sortieren.
 
@@ -10,13 +10,13 @@ Bei **Feldauswahl** können Sie auswählen, nach welchem Feld sortiert werden so
 Bei **Feldtyp** wählen Sie den Feldtyp (Zahl, Gleitkommazahl oder Text) aus.<br>
 Bei **Sortierung** wählen Sie aus ob sie aufsteigend oder absteigend sortieren lassen wollen.
 
-## Bedingungen
+### Bedingungen
 
 ![](Bedingungen.png)
 
 Das Feld **Bedingungen** dient zur Reduzierung der Ergebnisse nach bestimmten Kriterien. Wollen Sie z. B. nur Objekte in Leipzig angezeigt haben, können SIe hier folgendes eingeben: **geo.ort=Leipzig** (auf Groß- und Kleinschreibung achten!).
 
-## Bildeinstellungen
+### Bildeinstellungen
 
 ![](Bildeinstellungen.png)
 
@@ -50,7 +50,7 @@ Bei **Bildbreite** und **Bildhöhe** gibt man eine Angabe der Breite bzw. der H�
 
 
 
-## Paginierung
+### Paginierung
 
 ![](Paginierung2.png)
 
@@ -62,7 +62,7 @@ Bei **Anzahl der Links** kann man auswählen wie viele Links man in der Seitennu
 
 **Verwende Isotope** bewirkt, dass die Elemente sich verschieben, wenn man Filter anwendet.
 
-## Optionen
+### Optionen
 
 ![](Optionen.png)
 
