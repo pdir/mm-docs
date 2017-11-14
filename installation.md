@@ -1,7 +1,7 @@
 # Installation und Einrichtung
 
-###[Installation & Einrichtung](installation_&_einrichtung.md)
+###[Installation](installation_&_einrichtung.md)
 
-###[Installation & Einrichtung](einrichtung.md)
+###[Einrichtung](einrichtung.md)
 
-###[Installation & Einrichtung](import.md)
+###[Import](import.md)
