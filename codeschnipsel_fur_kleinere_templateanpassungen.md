@@ -1,6 +1,6 @@
 # Codeschnipsel für kleinere Templateanpassungen
 
-## Listenansicht
+### Listenansicht
 
 ```
 Darstellung des Kaufpreis in der Filteranzeige im deutschen Format
