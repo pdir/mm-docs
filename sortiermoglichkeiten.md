@@ -1,4 +1,4 @@
-# Sortiermöglichkeiten der Listenansicht
+# Konfiguration der Listenansicht
 
 ### Sortierung
 
