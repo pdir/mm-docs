@@ -2,9 +2,9 @@
 
 * [Einleitung](README.md)
 * [Installation und Einrichtung](installation.md)
-   * [Installation](installation.md)
    * [Einrichtung](einrichtung.md)
    * [Import](import-startenmd.md)
+   * Installation & Einrichtung
 * [Allgemeine Konfiguration](allgemeinmd.md)
    * [Bezeichnungen & Übersetzungen](bezeichnungen_&_ubersetzungen.md)
    * [Zusätzliche Felder](zusatzliche_felder.md)
