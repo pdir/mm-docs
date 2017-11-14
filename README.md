@@ -9,7 +9,7 @@ Offizielle Webseite http://www.maklermodul.de/
 
 Demo http://www.maklermodul.de/immoliste.html
 
-Version 1.4.x
+Version 1.6.x
 
 Erweiterung [makler_modul_mplus]
 
