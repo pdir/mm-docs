@@ -1,1 +1,1 @@
-!REDIRECT "installation.md"
+!REDIRECT "installation_&_einrichtung.md"
