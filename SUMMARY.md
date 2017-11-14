@@ -5,7 +5,7 @@
    * [Installation](installation_&_einrichtung.md)
    * [Einrichtung](einrichtung.md)
    * [Import](import.md)
-* [Allgemeine Konfiguration](allgemeinmd.md)
+* [Allgemeine Konfiguration](allgemeine_konfiguration.md)
    * [Bezeichnungen & Übersetzungen](bezeichnungen_&_ubersetzungen.md)
    * [Zusätzliche Felder](zusatzliche_felder.md)
    * [Seo, Sitemap & Co.](seo,_sitemap_&_co.md)
