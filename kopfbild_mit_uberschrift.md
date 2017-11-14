@@ -1,6 +1,6 @@
 # Kopfbild mit Überschrift
 
-Das Kopfbild kann entweder als Modul- oder Content-Element angelegt werden.
+Ab Version 1.6.0 kann ein Kopfbild  als Modul- oder Content-Element angelegt werden.
 
 ### Modul anlegen:
 
