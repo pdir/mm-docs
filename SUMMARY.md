@@ -10,7 +10,7 @@
    * [Zusätzliche Felder](zusatzliche_felder.md)
    * [Seo, Sitemap & Co.](seo,_sitemap_&_co.md)
    * [Codeschnipsel für kleinere Templateanpassungen](codeschnipsel_fur_kleinere_templateanpassungen.md)
-* Listenansicht
+* [Listenansicht](listenansicht.md)
    * [Dargestellte Felder und Filter](konfiguration.md)
    * [Konfiguration der Listenansicht](sortiermoglichkeiten.md)
    * [Typen der Objekteigenschaften](typen_der_objekteigenschaften.md)
