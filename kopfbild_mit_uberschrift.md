@@ -17,3 +17,7 @@ Außerdem kann ein eigener **Platzhalter** gesetzt werden, falls beim Immobilien
 Das Kopfbild kann auch in einem Artikel als **Content-Element** angelegt werden. Dazu wählen Sie als **Elementtyp** unter Include-Elemente **"MaklerModul Kopfbild"** aus. Beim Content-Element haben Sie genau die selben Einstellungsmöglichkeiten wie beim Modul.
 
 ![](assets/headerimage_content_auswahl.png)
+
+### So kann das fertige Kopfbild aussehen:
+
+![](assets/screenshot-detailansicht-headerbild.png)
