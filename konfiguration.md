@@ -1,4 +1,4 @@
-# Konfiguration der Listenansicht
+# Dargestellte Felder und Filter
 
 Wie Sie sicher schon bemerkt haben, wurden bei der Einrichtung 2 Felder im Modul **Listenansicht**
 ignoriert: **Dargestellte Felder** und **Filter**. Wenn diese beiden Felder leer sind, dann wird die Standardkonfiguration
