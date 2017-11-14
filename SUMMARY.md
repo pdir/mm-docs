@@ -15,11 +15,11 @@
    * [Konfiguration der Listenansicht](sortiermoglichkeiten.md)
    * [Typen der Objekteigenschaften](typen_der_objekteigenschaften.md)
 * [Detailansicht](detailansicht.md)
+   * [Templates](templates-detailansicht.md)
    * [Google Maps integrieren](google_maps_integrieren.md)
    * [Formular für Objektanfrage einbinden](formular_fur_objektanfrage_einbinden.md)
    * [Formular mit Openimmo Feedback XML](formular-mit-openimmo-feedback-xml.md)
    * [Kopfbild mit Überschrift](kopfbild_mit_uberschrift.md)
-   * [Templates](templates-detailansicht.md)
 * Das Maklermodul und andere Erweiterungen
    * [SWGlossar](swglossar.md)
 * Hinweise
