@@ -6,7 +6,7 @@ Ersparen Sie sich das doppelte Pflegen von Inseraten und importieren Sie Ihre Ob
 
 Offizielle Webseite [https://www.maklermodul.de](https://www.maklermodul.de)
 
-Demo [https://www.maklermodul.de/demo.html](https://www.maklermodul.de/demo.html)
+Demo [https://www.maklermodul.de/demo.html](https://www.maklermodul.de/demo.html) 
 
 Erweiterung \[makler\_modul\_mplus\]
 
