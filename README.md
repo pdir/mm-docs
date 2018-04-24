@@ -23,24 +23,26 @@ Dieses Modul ist auf den Anwendungsfall  "Makler mit Immobliensoftware möchte s
 * individuell anpassbare Exposé-Ausgabe - passend zu Ihren Vorlagen/Corporate Design
 * Anbinden von Apps oder anderen Schnittstellen über JSON
 
-### Unterstütze Maklersoftware
+### Welche Maklersoftware wird unterstützt?
 
-Wir unterstützen alle gängigen Maklersoftware-Lösungen auf Basis von OpenImmo, wie z.B.:
+Mit folgender Maklersoftware funktioniert ein Abgleich problemlos:
 
-* onOffice
-* FlowFact
-* openestate
-* MAKLERSERVER
-* immoprofessional
-* PnetImmobilien
-* i-Tool, estateOffice, estatePro
-* immoSuccess
-* oms Immo
-* PowerImmo 2010
-* Office-Makler.de
-* GG Makler Office
-* Lagler Immo-Spezial
-* TeamProQ
+* **openestate-ImmoTool** - offene Lösungen für die Immobilienwirtschaft
+* **IMMO-SOLUTION** - die Branchenlösung für Immobilienmakler
+* **onOffice** - Online Makler Software
+* **FlowFact Immobilien CRM** - Immobiliensoftware
+* **estateOffice, estatePro, i-Tool **- Immowelt Maklersoftware
+* **WIB24** Import
 
+Weitere Plattformen folgen. Wenn Sie eine Anbindung an eine bestimmte Plattform benötigen, [fragen Sie einfach nach](https://www.maklermodul.de/index.php/kontakt.html). In der Regel gilt: Wenn Ihre Software den Datenaustausch mit dem kostenlosen OpenImmo XML Format unterstützt, sollte der Abgleich problemlos funktionieren.
 
+Weitere Tests mit Maklersoftware, wie Exposé, Makler 2000, estatePro oder Ammon, führen wir bei Interesse gern gemeinsam mit Ihnen durch.
+
+### Weitere unterstützte Plattformen und Programme
+
+FlowFact Performer / direct hAPPy®, ImmonetManager \(immonet.de\), Makler2000 \(immowelt.de\), MaklerManager \(ImmobilienScout24\), MaklerServer, CasaSoft, WIN-IMOS, EDI-Real, courtag.io, Lagler IMMO-Spezial, OMAKLER®, IMMOPOOL Immformer, FIOPORT, Gestim, Node EXPOSÉ, AMMON MOA Soft, PowerMakler, immoprofessional, JUSTIMMO, ilogu.de, TopREAL, Immobiliensoftware lagler \(lagler.de\)
+
+### Welche Contao-Versionen werden unterstützt?
+
+Das Maklermodul ist in **Contao 3** sowie auch in **Contao 4.4 und größer** verfügbar.
 
