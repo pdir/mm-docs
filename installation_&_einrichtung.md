@@ -6,28 +6,36 @@ Voraussetzung sind Kenntnisse für das CMS Contao!
 2. Die Contao-Installation muss sich im root-Verzeichnis befinden.
 3. jQuery muss bereits eingebunden sein.
 
-# Installation
+## Installation für Contao 4
 
-* 
-in das Backend von Contao einloggen
-* 
-im Menü Backend-Module unter System den Punkt Erweiterungskatalog wählen
-* 
-im **Suchfeld** „makler modul“ eingeben und die Taste **Enter** drücken
-* 
-im Suchergebnis rechts oben in der Ecke das **Symbol** zum **Installieren** klicken
+Das Maklermodul ist mit **Contao 4.4 und größer** kompatibel. Um die Demo des Maklermoduls zu installieren, befolgen Sie die folgenden Schritte:
+
+* Contao-Manager aufrufen und anmelden
+* **Pakete installieren** auswählen
+* im Suchfeld "maklermodul" eingeben
+* auf **Prüfen & Installieren** klicken und **Änderungen anwenden**
+* Install-Tool aufrufen und Datenbank aktualisieren
+
+Eine Lizenz des Maklermoduls können Sie [hier](https://www.maklermodul.de/bestellformular.html) erwerben.
+
+![](/assets/installation-maklermodul-contao-4.png)
+
+## Installation für Contao 3
+
+* in das Backend von Contao einloggen
+* im Menü Backend-Module unter System den Punkt Erweiterungskatalog wählen
+* im **Suchfeld** „makler modul“ eingeben und die Taste **Enter** drücken
+* im Suchergebnis rechts oben in der Ecke das **Symbol** zum **Installieren** klicken
 
 ![](Installieren.png)
 
 ODER
 
-* 
-Suchergebnis „makler_modul_mplus“ auswählen und Button **Installieren** klicken
-* 
-Lizenzschlüssel eingeben und **Weiter**
-* 
-bei der nächsten Anzeige Aktionszusammmenfassung noch einmal Weiter klicken
-* 
-wenn Aktion erfolgreich, dann Weiter klicken
-* 
-Datenbank aktualisieren, zum Abschluss **OK** drücken
+* Suchergebnis „makler\_modul\_mplus“ auswählen und Button **Installieren** klicken
+* Lizenzschlüssel eingeben und **Weiter**
+* bei der nächsten Anzeige Aktionszusammmenfassung noch einmal Weiter klicken
+* wenn Aktion erfolgreich, dann Weiter klicken
+* Datenbank aktualisieren, zum Abschluss **OK** drücken
+
+
+

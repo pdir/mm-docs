@@ -1,17 +1,14 @@
-
 # Handbuch
 
 ## Makler Modul für Contao
 
 Ersparen Sie sich das doppelte Pflegen von Inseraten und importieren Sie Ihre Objekte direkt aus Ihrer Immobiliensoftware.
 
-Offizielle Webseite http://www.maklermodul.de/
+Offizielle Webseite [http://www.maklermodul.de/](http://www.maklermodul.de/)
 
-Demo http://www.maklermodul.de/immoliste.html
+Demo [http://www.maklermodul.de/immoliste.html](http://www.maklermodul.de/immoliste.html)
 
-Version 1.6.x
-
-Erweiterung [makler_modul_mplus]
+Erweiterung \[makler\_modul\_mplus\]
 
 ## Beschreibung
 
@@ -20,13 +17,14 @@ Dieses Modul ist auf den Anwendungsfall  "Makler mit Immobliensoftware möchte s
 **Unser Modul bietet Ihnen folgende Vorteile:**
 
 * das doppelte oder mehrfache Pflegen Ihrer Immobilienobjekte entfällt
-* immer aktuell durch automatischen Import der Immobilienobjekte nach dem Abgleich mit Ihrer Immobiliensoftware (z.B. FlowFact, Makler2000, Immomanager und viele mehr)
+* immer aktuell durch automatischen Import der Immobilienobjekte nach dem Abgleich mit Ihrer Immobiliensoftware \(z.B. FlowFact, Makler2000, Immomanager und viele mehr\)
 * individuell anpassbare Exposé-Ausgabe - passend zu Ihren Vorlagen/Corporate Design
 * Anbinden von Apps oder anderen Schnittstellen über JSON
 
 ### Unterstütze Maklersoftware
 
 Wir unterstützen alle gängigen Maklersoftware-Lösungen auf Basis von OpenImmo, wie z.B.:
+
 * onOffice
 * FlowFact
 * openestate
@@ -41,3 +39,6 @@ Wir unterstützen alle gängigen Maklersoftware-Lösungen auf Basis von OpenImmo
 * GG Makler Office
 * Lagler Immo-Spezial
 * TeamProQ
+
+
+
