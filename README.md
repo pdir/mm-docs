@@ -10,6 +10,8 @@ Demo [http://www.maklermodul.de/immoliste.html](http://www.maklermodul.de/immoli
 
 Erweiterung \[makler\_modul\_mplus\]
 
+Unterstützte Contao-Version: **Contao 3** und **4.4 oder größer**
+
 ## Beschreibung
 
 Dieses Modul ist auf den Anwendungsfall  "Makler mit Immobliensoftware möchte seine Objekte mit Contao veröffentlichen" ausgelegt. Aus diesem Grund sind keine Möglichkeiten der Immobilien-Bearbeitung integriert. Wenn Sie oder Ihr Kunde also eine Maklersoftware wie FlowFact besitzen oder zukünftig verwenden möchten, ist unser Makler Modul der "Leim" zwischen der Maklersoftware und Contao.
