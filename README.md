@@ -4,9 +4,9 @@
 
 Ersparen Sie sich das doppelte Pflegen von Inseraten und importieren Sie Ihre Objekte direkt aus Ihrer Immobiliensoftware.
 
-Offizielle Webseite [http://www.maklermodul.de/](http://www.maklermodul.de/)
+Offizielle Webseite [https://www.maklermodul.de](https://www.maklermodul.de)
 
-Demo [http://www.maklermodul.de/immoliste.html](http://www.maklermodul.de/immoliste.html)
+Demo [https://www.maklermodul.de/demo.html](https://www.maklermodul.de/demo.html)
 
 Erweiterung \[makler\_modul\_mplus\]
 
