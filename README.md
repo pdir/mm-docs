@@ -44,5 +44,5 @@ FlowFact Performer / direct hAPPy®, ImmonetManager \(immonet.de\), Makler2000 \
 
 ### Welche Contao-Versionen werden unterstützt?
 
-Das Maklermodul ist in **Contao 3.x** sowie auch in **Contao 4.4 und größer** verfügbar.
+Das Maklermodul ist für **Contao 3.x** sowie auch in **Contao 4.4 und größer** verfügbar.
 
