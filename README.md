@@ -6,11 +6,11 @@ Ersparen Sie sich das doppelte Pflegen von Inseraten und importieren Sie Ihre Ob
 
 Offizielle Webseite [https://www.maklermodul.de](https://www.maklermodul.de)
 
-Demo [https://www.maklermodul.de/demo.html](https://www.maklermodul.de/demo.html) 
+Demo [https://www.maklermodul.de/demo.html](https://www.maklermodul.de/demo.html)
 
 Erweiterung \[makler\_modul\_mplus\]
 
-Unterstützte Contao-Version: **Contao 3** und **4.4 oder größer**
+Unterstützte Contao-Version: **Contao 3.x** und **4.4 oder größer**
 
 ## Beschreibung
 
@@ -44,5 +44,5 @@ FlowFact Performer / direct hAPPy®, ImmonetManager \(immonet.de\), Makler2000 \
 
 ### Welche Contao-Versionen werden unterstützt?
 
-Das Maklermodul ist in **Contao 3** sowie auch in **Contao 4.4 und größer** verfügbar.
+Das Maklermodul ist in **Contao 3.x** sowie auch in **Contao 4.4 und größer** verfügbar.
 
