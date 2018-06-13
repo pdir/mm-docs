@@ -2,7 +2,7 @@
     "plugins": [ "versions" ],
     "pluginsConfig": {
         "versions": {
-            "gitbookConfigURL": "https://raw.githubusercontent.com/rackt/history/gh-pages/book.json",
+            "gitbookConfigURL": "book.json",
             "options": [
                 {
                     "value": "https://docs.maklermodul.de/v/contao3/",
