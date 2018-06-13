@@ -1,10 +1,8 @@
 # Google Maps integrieren
 
-Für das Darstellen einer Google Maps Karte müssen sie eine Google-Maps-Erweiterung installieren, die Karte und das Modul anlegen sowie eine Anpassung im Template vornehmen.
-
-Mit dieser Erweiterung ist es zudem auch möglich eine datenschutzkonforme Google Maps Karte darzustellen. Der Nutzer sieht erst einen Hinweis, dass Google Maps verwendet wird und muss durch Klicken bestätigen, dass die Karte angezeigt werden darf. So wird der Datentransfer zu Google verhindert, wenn der Nutzer dem nicht einwilligt.
-
 Befolgen Sie folgende Schritte um eine Google Maps Karte auf Ihrer Webseite anzuzeigen.
+
+Es ist zudem auch möglich eine datenschutzkonforme Google Maps Karte darzustellen. Der Nutzer sieht erst einen Hinweis, dass Google Maps verwendet wird und muss durch Klicken bestätigen, dass die Karte angezeigt werden darf. So wird der Datentransfer zu Google verhindert, wenn der Nutzer dem nicht einwilligt.
 
 ### 1. Google-Maps-Erweiterung installieren:
 
