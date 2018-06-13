@@ -2,7 +2,18 @@
     "plugins": [ "versions" ],
     "pluginsConfig": {
         "versions": {
-            "type": "branches"
+            "gitbookConfigURL": "https://raw.githubusercontent.com/rackt/history/gh-pages/book.json",
+            "options": [
+                {
+                    "value": "https://docs.maklermodul.de/v/contao3/",
+                    "text": "Contao 3"
+                },
+                {
+                    "value": "https://docs.maklermodul.de/v/contao4/",
+                    "text": "Contao 4",
+                    "selected": true
+                }
+            ]
         }
     }
 }
