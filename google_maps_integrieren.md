@@ -135,5 +135,58 @@ Wenn die Karte nur dann dargestellt werden soll, wenn die Adresse auch wirklich 
 <?php endif; ?>
 ```
 
+### Optional: CSS-Anpassungen
+
+Um CSS-Anpassungen vorzunehmen, bearbeiten Sie Ihre CSS-Datei. Wenn Sie noch keine angelegt haben, legen Sie eine CSS-Datei an, z. B. style.css, und wählen diese im Seiten-Layout unter Externe Stylesheets aus.
+
+#### Code-Schnipsel
+
+Nachfolgend sind einige Code-Schnipsel aufgelistet, die zeigen wie Sie Farben, Breiten und Höhen anpassen können.
+
+**Höhe der Google Maps Karte ändern:**
+
+```
+.mod_dlh_googlemaps, .dlh_googlemap {
+    height: 600px;
+}
+```
+
+**Datenschutz-Hinweis ändern:**
+
+```
+#confirm-googlemaps {
+    background: #fff;
+    color: #000;
+    width: 50%;
+}
+```
+
+**h3-Überschrift ändern:**
+
+```
+#confirm-googlemaps h3 {
+    background: #f2f2f2;
+    color: #b91e1e;
+}
+```
+
+**Button ändern:**
+
+```
+#confirm-googlemaps a.btn {
+    background: #d45a5a;
+    color: #fff;
+}
+```
+
+**Button-Hover ändern:**
+
+```
+#confirm-googlemaps a.btn:hover {
+    background: #b91e1e;
+    color: #fff;
+}
+```
+
 
 
