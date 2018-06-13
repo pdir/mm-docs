@@ -20,7 +20,7 @@ Um die Erweiterung zu installieren, befolgen Sie die folgenden Schritte:
 
 ### 2. API-Key in der Seitenstruktur eintragen
 
-In der Seitenstruktur müssen Sie im Startpunkt Ihrer Webseite den Google-Maps-API-Key eintragen. Die Einstellung finden Sie unter dem Reiter Google Maps.
+In der Seitenstruktur müssen Sie im Startpunkt Ihrer Webseite den Google-Maps-API-Key eintragen. Die Einstellung finden Sie unter dem Reiter Google Maps. Alle notwendigen Informationen zur Erstellung des API-Keys finden Sie auf der [Google Maps APIs Webseite](https://developers.google.com/maps/documentation/javascript/get-api-key?hl=de).
 
 ![](/img/googlemaps/seitenstuktur_googlemaps_apikey.png)
 
@@ -134,7 +134,7 @@ Wenn die Karte nur dann dargestellt werden soll, wenn die Adresse auch wirklich 
             }
         });
     </script>
-<?php endif; ?> 
+<?php endif; ?>
 ```
 
 
