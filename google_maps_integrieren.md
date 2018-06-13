@@ -11,7 +11,7 @@ Um die Erweiterung zu installieren, befolgen Sie die folgenden Schritte:
 * Contao-Manager aufrufen und anmelden
 * **Pakete installieren** auswählen
 * im Suchfeld "dlh\_googlemaps" eingeben
-* bei der Erweiterung **delahaye/dlh\_googlemaps** auf Paket hinzufügen klicken und **Änderungen anwenden**
+* bei der Erweiterung **delahaye/dlh\_googlemaps** auf **Paket hinzufügen** klicken und **Änderungen anwenden**
 * Install-Tool aufrufen und Datenbank aktualisieren
 
 ![](/img/googlemaps/dlh_googlemaps_installieren.png)
