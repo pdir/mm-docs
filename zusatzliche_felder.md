@@ -1,8 +1,7 @@
 # Zusätzliche Felder
 
 Natürlich steht für die Nutzung von Benutzerdefinierten Felder auch eine Möglichkeit zur Verfügung.<br>
-Im Ordner "**/files/makler_modul_mplus/**" Ihrer Installation finden Sie die Datei "**data.mapping.example**".
-Diese Kopieren Sie einfach und benennen diese um in "**data.mapping.php**".
+Legen Sie dafür einfach im Ordner **`**files/maklermodul*`*** eine Datei mit dem Namen `data.mapping.php` an.
 
 Einfaches Mapping "**<etagenzahl>45</etagenzahl> => anzahl_etagen:45**"
 
