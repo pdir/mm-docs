@@ -26,5 +26,7 @@ $(document).ready( function() {
 </script>
 ```
 
+Anschließend sollten die Preise wie folgt dargestellt werden.
+
 ![](/img/konfiguration/contao4_preis_deutsches_format.png)
 
