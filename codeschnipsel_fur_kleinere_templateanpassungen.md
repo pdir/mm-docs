@@ -2,14 +2,14 @@
 
 ### Listenansicht
 
-**Darstellung der Nettokaltmiete in der Filteranzeige im deutschen Format**
+**Darstellung von Nettokaltmiete/Kaufpreis in der Filteranzeige im deutschen Format**
 
 Fügen Sie dafür folgenden Quellcode ans Ende des Templates `makler_list.html5` ein.
 
 ```
 <script>
 $(document).ready( function() {
-    jQuery("#estate_filter_list .preise-nettokaltmiete .button").each(function(i, obj) {
+    jQuery("#estate_filter_list .preise-nettokaltmiete .button, #estate_filter_list .preise-kaufpreis .button").each(function(i, obj) {
         jQuery(obj).html(filterGermanNumber(jQuery(obj).html()) + ' €');
     });
 
