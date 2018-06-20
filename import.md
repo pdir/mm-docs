@@ -6,10 +6,9 @@ Wenn Sie zuerst die **Demodaten herunterladen** wollen, wählen Sie in der linke
 
 ## Eigene Immobiliendaten importieren
 
-Nach der Installation befinden sich unter Backend-Module **System** im Punkt **Dateiverwaltung** ein neues Verzeichniss  
-**maklermodul**. In diesem Ordner müssen **3 weitere Verzeichnisse** mit folgenden Namen enthalten sein: **data, org, upload**. 
+Nach der Installation befinden sich unter Backend-Module **System** im Punkt **Dateiverwaltung** ein neues Verzeichnis **maklermodul**. In diesem Ordner müssen **3 weitere Verzeichnisse** mit folgenden Namen enthalten sein: **data, org, upload**.
 
-Um die zip-Datei hochzuladen, muss auf **Datei-Upload** geklickt werden. Die Ansicht ändert sich und es muss rechts von Upload das Icon **In dieses Verzeichnis einfügen** geklickt werden. Unter **Dateiupload** den Button **Dateien auswählen** betätigen. Danach die **zip-Datei** wählen und unten rechts Button **Öffnen** klicken. Anschliessend den Button **Dateien hochladen** betätigen. 
+Um die zip-Datei hochzuladen, muss auf **Datei-Upload** geklickt werden. Die Ansicht ändert sich und es muss rechts von Upload das Icon **In dieses Verzeichnis einfügen** geklickt werden. Unter **Dateiupload** den Button **Dateien auswählen** betätigen. Danach die **zip-Datei** wählen und unten rechts Button **Öffnen** klicken. Anschliessend den Button **Dateien hochladen** betätigen.
 
 Jetzt sollte sich diese Datei im **Verzeichnis ‚upload‘** befinden.
 
