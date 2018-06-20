@@ -1,6 +1,6 @@
 # Dateien für die Immobiliendaten hochladen
 
-Sie haben die Möglichkeit **eigene Immobiliendaten** oder die **Demodaten** zu importieren. 
+Sie haben die Möglichkeit **eigene Immobiliendaten** oder die **Demodaten** zu importieren.
 
 Wenn Sie zuerst die Demodaten herunterladen wollen, wählen Sie in der linken Navigation unter PDIR APPS den Menüpunkt Maklermodul Setup aus und klicken auf den Button Demodaten herunterladen. Anschließend finden Sie die Demodaten in der Dateiverwaltung unter dem Ordner maklermodul/data.
 
@@ -22,14 +22,7 @@ Datei im **Verzeichnis ‚upload‘** befinden.
 
 ## Import starten
 
-Es gibt die Möglichkeit den Import bei dem Backend-Modul **makler modul** über **Tools** und **Import ausführen** manuell auszuführen.
+Wenn Sie den Import manuell ausführen wollen, können Sie ihn über das Backend-Modul **Maklermodul Setup** starten, in dem Sie den Button** Import ausführen** klicken.
 
-![](importieren-manuell.png)
-
-Oder man kann den Import über den Aufruf folgender URL im Browser ausführen.  
-[http://www.ihr-domainname.de/system/modules/makler\_modul\_mplus/assets/cron.php](http://www.ihr-domainname.de/system/modules/makler_modul_mplus/assets/cron.php)
-
-**ihr-domainname** durch **ihre Domain** ersetzen.
-
-Wenn Sie nun die Listenansicht aufrufen, sollte Sie die importierten Objekte aufgelistet sehen. Durch einen Klick auf das Bild eines Objektes gelangen Sie zur Detailansicht.
+![](/img/import/contao4_maklermodul_setup.png)
 
