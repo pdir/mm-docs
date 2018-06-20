@@ -1,14 +1,16 @@
 # Detailansicht
 
-### [Google Maps integrieren](google_maps_integrieren.md)
+Die folgenden Abschnitte erklären wie sie die Detailansicht nach Ihren Wünschen anpassen können.
 
-### [Formular für Objektanfrage einbinden](formular_fur_objektanfrage_einbinden.md)
+#### [Google Maps integrieren](google_maps_integrieren.md)
 
-### [Formular mit Openimmo Feedback XML](formular-mit-openimmo-feedback-xml.md)
+#### [Formular für Objektanfrage einbinden](formular_fur_objektanfrage_einbinden.md)
 
-### [Kopfbild mit Überschrift](kopfbild_mit_uberschrift.md)
+#### [Formular mit Openimmo Feedback XML](formular-mit-openimmo-feedback-xml.md)
 
-### [Darstellung von Bildern](/darstellung-von-bildern.md)
+#### [Kopfbild mit Überschrift](kopfbild_mit_uberschrift.md)
+
+#### [Darstellung von Bildern](/darstellung-von-bildern.md)
 
 
 
