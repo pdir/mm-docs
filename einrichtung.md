@@ -4,7 +4,9 @@ Legen Sie als erstes jeweils eine Seite für die Listenansicht und Detailansicht
 
 ### Module anlegen
 
-In der linken Navigation wählen Sie unter **Layout** den Menüpunkt **Themes** aus und wählen für das Theme Ihrer Webseite das Zahnrad-Icon **Die Frontend-Module des Themes ID … bearbeiten** aus.   
+In der linken Navigation wählen Sie unter **Layout** den Menüpunkt **Themes** aus und wählen für das Theme Ihrer Webseite das Zahnrad-Icon **Die Frontend-Module des Themes ID … bearbeiten** aus.
+
+  
 ![](/img/einrichtung/contao4_themes_module_auswahl.png)
 
 #### Modul für die Listenansicht anlegen
@@ -41,8 +43,6 @@ Wenn Sie die Module angelegt haben, müssen Sie sie noch die Module in den Artik
 * Den entsprechenden Artikel der Listen- oder Detailansicht auswählen.
 * **Neues Element** wählen und an einer beliebigen Stelle platzieren.
 * **Elementtyp** **Modul** auswählen und das angelegte Modul auswählen.
-
-
 
 
 
