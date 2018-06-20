@@ -30,3 +30,5 @@ Anschließend sollten die Preise wie folgt dargestellt werden.
 
 ![](/img/konfiguration/contao4_preis_deutsches_format.png)
 
+![](/img/konfiguration/contao4_preis_deutsches_format2.png)
+
