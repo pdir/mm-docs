@@ -2,75 +2,82 @@
 
 ### Sortierung
 
-Sie haben die Möglichkeit Ihre Immobilien in der Listenansicht Ihrer Homepage nach einen bestimmten Feld zu sortieren.
-
-![](Sortieren.png)
+![](/img/listenansicht/contao4_sortierung.png)Sie haben die Möglichkeit Ihre Immobilien in der Listenansicht Ihrer Homepage nach einen bestimmten Feld zu sortieren.
 
 Bei **Feldauswahl** können Sie auswählen, nach welchem Feld sortiert werden soll.
 
-Bei **Feldtyp** wählen Sie den Feldtyp (Zahl, Gleitkommazahl oder Text) aus.
+Bei **Feldtyp** wählen Sie den Feldtyp \(Zahl, Gleitkommazahl oder Text\) aus.
 
 Bei **Sortierung** wählen Sie aus ob sie aufsteigend oder absteigend sortieren lassen wollen.
 
 ### Bedingungen
 
-![](Bedingungen.png)
+![](/img/listenansicht/contao4_bedingung.png)
 
-Das Feld **Bedingungen** dient zur Reduzierung der Ergebnisse nach bestimmten Kriterien. Wollen Sie z. B. nur Objekte in Leipzig angezeigt haben, können SIe hier folgendes eingeben: **geo.ort=Leipzig** (auf Groß- und Kleinschreibung achten!).
+Das Feld **Bedingungen** dient zur Reduzierung der Ergebnisse nach bestimmten Kriterien. Wollen Sie z. B. alle Zweizimmerwohnungen aus dem Ort Meißen anzeigen, fügen Sie die zwei Zeilen aus dem Bild ein. Fügen Sie nur eine Bedingung pro Zeile ein.
+
+**Weitere Beispiele:**
+
+Ort UNGLEICH Leipzig
+
+```
+geo.ort!=Leipzig
+```
+
+Objektadresse freigegeben
+
+```
+objektadresse_freigegeben=true
+```
 
 ### Bildeinstellungen
 
-![](bildeinstellungen.png)
+![](/img/listenansicht/contao4_bildeinstellungen.png)Wählen Sie bei Bildgröße den gewünschten Bildmodus aus. Sie haben folgende Einstellmöglichkeiten:
 
-Bei **Bildbreite** und **Bildhöhe** gibt man eine Angabe der Breite bzw. der Höhe in Pixel an. Standards sind für die Breite 293px, für die Höhe 220px.
+* **Proportional: **Die längere Seite des Bildes wird an die Rahmenbox angepasst.
+* **An Rahmen anpassen:** Die kürzere Seite des Bildes wird an die Rahmenbox angepasst.
+* **Wichtiger Teil:** Festlegen eines wichtigen Bereiches, der als Bildausschnitt genutzt wird.
+* **Links \| Oben:** Bildausschnitt links oben.
+* **Mitte \| Oben:** Bildausschnitt mittig oben.
+* **Rechts \| Oben: **Bildausschnitt rechts oben.
+* **Links \| Mitte:** Bildausschnitt links mittig.
+* **Mitte \| Mitte:** Bildausschnitt mitte mittig.
+* **Rechts \| Mitte:** Bildausschnitt rechts mittig.
+* **Links \| Unten:** Bildausschnitt links unten.
+* **Mitte \| Unten: **Bildausschnitt mittig unten.
+* **Rechts \| Unten:** Bildausschnitt rechts unten.
 
-**Bildmodus** gibt an wie das Bild in der Listenansicht an die entsprechende Bildbreite und -höhe skaliert wird. Folgende Angaben sind möglich:
-* 
-**proportional:** längere Seite des Bildes wird an die Rahmenbox angepasst
-* 
-**box:** die kürzere Seite des Bildes wird an die Rahmenbox angepasst
-* 
-**crop:** Festlegen eines wichtigen Bereiches (in der Dateiverwaltung im Bild), der als Bildausschnitt genutzt wird
-* 
-**left_top:** linker oberer Bildausschnitt
-* 
-**center_top:** mittige obere Bildausschnitt
-* 
-**right_top:** rechte obere Bildausschnitt
-* 
-**left_center:** linke mittige Bildausschnitt
-* 
-**center_center:** mittige Bildausschnitt
-* 
-**right_center:** rechte mittige Bildausschnitt
-* 
-**left_bottom:** linke untere Bildausschnitt
-* 
-**center_bottom:** mittige untere Bildausschnitt
-* 
-**right_bottom:** rechte untere Bildausschnitt
+Im ersten Textfeld neben der Auswahl des Bildmodus geben Sie die **Breite** in Pixeln ein. Im folgenden Textfeld geben Sie die **Höhe** in Pixeln ein.
 
-Außerdem kann ab Version 1.6.0 ein eigenes **Platzhalter-Bild** gesetzt werden, falls beim Immobilienobjekt in der Listenansicht kein Bild hinterlegt ist. Wird kein Platzhalter-Bild ausgewählt und das Immobilienobjekt besitzt kein Bild, wird ein moduleigenes Platzhalter-Bild dargestellt. 
+Außerdem kann ein eigenes **Platzhalter-Bild** gesetzt werden, falls beim Immobilienobjekt in der Listenansicht kein Bild hinterlegt ist. Wird kein Platzhalter-Bild ausgewählt und das Immobilienobjekt besitzt kein Bild, wird ein moduleigenes Platzhalter-Bild dargestellt.
 
 ### Paginierung
 
-![](Paginierung2.png)
+![](/img/listenansicht/contao4_paginierung.png)
 
-Bei **Anzahl der Objekte** kann man auswählen, wie viele Objekte auf einer Seite angezeigt werden sollen.
+Bei **Anzahl der Objekte** können Sie auswählen, wie viele Objekte auf einer Seite angezeigt werden sollen.
 
-Bei **Anzahl der Links** kann man auswählen wie viele Links man in der Seitennummerierung (siehe folgendes Bild) angezeigt haben möchte. Wenn man z. B. 2 einträgt, werden im nachfolgenden Bild nur die 2 und 3 angezeigt. Die restlichen Nummern werden dann mit ... angezeigt.
+Bei **Anzahl der Links** können Sie auswählen wie viele Links in der Pagination angezeigt werden sollen. Dafür müssen Sie die Option **Verwende Isotope** aktivieren.
 
-![](pagination-anzahl-der-links.png)
+Beispiel - Verwende Isotope aktiviert:
 
-**Verwende Isotope** bewirkt, dass die Elemente sich verschieben, wenn man Filter anwendet.
+![](/img/listenansicht/contao4_paginierung_mit_isotope.png)
 
-### Optionen
+Beispiel - Verwende Isotope nicht aktiviert:
 
-![](Optionen.png)
+![](/img/listenansicht/contao4_paginierung_ohne_isotope.png)
 
-**Nur Filter** blendet alle Filterergebnisse aus. Wenn diese Option aktiv ist, muss bei **Listenansicht** eine Seite angegeben werden auf die weitergeleitet wird, die die Filtereinstellungen mit übernimmt.
+### Nur Filter
 
-Bei **In Sitemap-Navigation anzeigen** werden die Objekte dieser Listenansicht auch in der Sitemap Navigation angezeigt. Es muss das Template "nav_makler-sitemap" in den Templateeinstellungen der Sitemap-Navigation ausgewählt werden.
+![](/img/listenansicht/contao4_nur_filter.png)
+
+Wenn Sie bei Optionen **Nur Filter **aktivieren, werden alle Filtergebnisse ausgeblendet. Sie müssen allerdings eine Listenansicht angeben, zu der weitergeleitet wird, wenn man auf den Button Immobilien suchen klickt. Die Filtereinstellungen werden dann übernommen.
+
+### Weitere Optionen
+
+![](/img/listenansicht/contao4_weitere_optionen.png)
+
+Bei **In Sitemap-Navigation anzeigen** werden die Objekte dieser Listenansicht auch in der Sitemap Navigation angezeigt. Es muss das Template _nav\_makler\_sitemap_ in den Templateeinstellungen der Sitemap-Navigation ausgewählt werden.
 
 **Debug** zeigt alle verfügbaren Feldschlüssel an, die verwendet werden können.
 
@@ -78,4 +85,5 @@ Bei **In Sitemap-Navigation anzeigen** werden die Objekte dieser Listenansicht a
 
 **Javascript einbinden** bindet das moduleigene Javascript ind as Template ein.
 
-**Abwärtskompatibilität** aktivieren bedeutet, dass nach Aktivierung die alten Template-Funktionen in der Listenansicht verwendet werden (frühere Versionen <1.4.0). Der Index muss nach einer Änderung neu aufgebaut werden.
+**Abwärtskompatibilität** aktivieren bedeutet, dass nach Aktivierung die alten Template-Funktionen in der Listenansicht verwendet werden \(frühere Versionen &lt;1.4.0\). Der Index muss nach einer Änderung neu aufgebaut werden.
+
