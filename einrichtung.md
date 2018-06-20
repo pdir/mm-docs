@@ -1,37 +1,48 @@
 # Einrichtung
 
+Legen Sie als erstes jeweils eine Seite für die Listenansicht und Detailansicht an.
+
 ### Module anlegen
 
-* 
-unter Backend-Module **Layout** den Punkt **Themes** wählen und für das Theme Ihrer Webseite das Icon **Die Frontend-Module des Themes ID … bearbeiten** auswählen
+In der linken Navigation wählen Sie unter **Layout** den Menüpunkt **Themes** aus und wählen für das Theme Ihrer Webseite das Zahnrad-Icon **Die Frontend-Module des Themes ID … bearbeiten** aus.   
+![](/img/einrichtung/contao4_themes_module_auswahl.png)
 
-![](einrichtung-schritt1.png)
-* 
-dort **Neues Modul** auswählen – für die Listenansicht
- * Titel für die **Immobilienliste** eingeben und bei Modultyp unter **MaklerModulMplus**
-den Eintrag Immobilienliste auswählen
- * bei **Detailansicht** die entsprechende Seite auswählen
- * bei **Immobilien** Templates den Eintrag **makler_list** wählen
- * **Speichern und schliessen** klicken
+#### Modul für die Listenansicht anlegen
 
-![](einrichtung-schritt2neu2.png)
-* 
-noch einmal **Neues Modul** auswählen – für die Detailansicht
- * Titel für die Detailansicht eingeben und bei Modultyp unter **MaklerModulMplus**
-den Eintrag **Expose** auswählen
- * bei **Immobilien Templates** den Eintrag **makler_details_simple** oder **makler_details_extended** wählen (das extended-Template beinhaltet mehr Felder und den Energiepass mit allen Energieangaben)
- * bei **Immobilienliste** die bereits angelegte Seite, die später die Immobilienliste enthalten soll, auswählen
- * ab Version 1.6.0 kann optional ein eigenes **Platzhalter-Bild** gesetzt werden, falls beim Immobilienobjekt in der Detailansicht kein Bild hinterlegt ist. Wird kein Platzhalter-Bild ausgewählt und das Immobilienobjekt besitzt kein Bild, wird ein moduleigenes Platzhalter-Bild dargestellt. 
- * **Speichern und schliessen** klicken
+Wählen Sie **Neues Modul** aus und legen ein Modul für die Listenansicht an:
 
-![](einrichtung-schritt3.png)
-* 
-unter Backend-Module **Inhalte** den Punkt **Artikel** wählen und zwei **neue Artikel** für die **Listenansicht** und
-**Detailansicht** in den entsprechenden Seiten anlegen und die **neu angelegten Module** einbinden
-* 
-bei dem jeweiligen Artikel das Icon **Artikel ID … bearbeiten** wählen
- * rechts von den Artikeldaten das Icon **neues Element oben erstellen** klicken
- * bei Elementtyp den Eintrag „Modul“ wählen
- * die Ansicht ändert sich; bei Modul für die Listenansicht **Listenansicht(ID...)**
-und für die Detailansicht **Detailansicht (ID...)** wählen
- * **Speichern und schliessen** klicken
+* Vergeben Sie einen **Titel** für Ihre Immobilienliste.
+* Wählen Sie bei **Modultyp** unter pdirMaklermodul **Immobilienliste** aus.
+* Wählen Sie bei **Detailansicht** die entsprechende Seite aus.
+* Wenn kein Template ausgewählt wird, wird standardmäßig das Template **makler\_list** genutzt
+
+![](/img/einrichtung/contao4_modul_listenansicht_anlegen.png)
+
+#### Modul für die Detailansicht \(Exposé\) anlegen
+
+Wählen Sie **Neues Modul** aus und legen ein Modul für die Detailansicht an:
+
+* Vergeben Sie einen **Titel** für das Exposé.
+* Wählen Sie bei **Modultyp** unter pdirMaklermodul **Expose** aus.
+* Wählen Sie bei **Immobilienliste** die Seite aus, mit der die Immobilienliste dargestellt werden soll.
+* Wählen Sie bei Immobilien-Templates entweder das Template **makler\_details\_simple**_ oder _**makler\_details\_extended** aus.
+
+**Optional:**
+
+* Sie können eine **Google Maps Karte** darstellen. Genaueres erfahren Sie auf der Seite [Google Maps integrieren](/google_maps_integrieren.md).
+* Sie können ein eigenes **Platzhalterbild** setzen, falls beim Immobilienobjekt kein Bild hinterlegt ist. Wird kein Platzhalterbild ausgewählt und das Immobilienobjekt besitzt kein Bild, wird ein moduleigenes Platzhalterbild dargestellt.
+
+![](/img/einrichtung/contao4_modul_detailansicht_anlegen.png)
+
+### Module einbinden
+
+Wenn Sie die Module angelegt haben, müssen Sie sie noch die Module in den Artikeln der Listen- und Detailansicht einbinden.
+
+* Den entsprechenden Artikel der Listen- oder Detailansicht auswählen.
+* **Neues Element** wählen und an einer beliebigen Stelle platzieren.
+* **Elementtyp** **Modul** auswählen und das angelegte Modul auswählen.
+
+
+
+
+
