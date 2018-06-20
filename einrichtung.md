@@ -6,7 +6,6 @@ Legen Sie als erstes jeweils eine Seite für die Listenansicht und Detailansicht
 
 In der linken Navigation wählen Sie unter **Layout** den Menüpunkt **Themes** aus und wählen für das Theme Ihrer Webseite das Zahnrad-Icon **Die Frontend-Module des Themes ID … bearbeiten** aus.
 
-  
 ![](/img/einrichtung/contao4_themes_module_auswahl.png)
 
 #### Modul für die Listenansicht anlegen
@@ -18,7 +17,8 @@ Wählen Sie **Neues Modul** aus und legen ein Modul für die Listenansicht an:
 * Wählen Sie bei **Detailansicht** die entsprechende Seite aus.
 * Wenn kein Template ausgewählt wird, wird standardmäßig das Template **makler\_list** genutzt
 
-![](/img/einrichtung/contao4_modul_listenansicht_anlegen.png)
+![](/img/einrichtung/contao4_modul_listenansicht_anlegen.png)  
+
 
 #### Modul für die Detailansicht \(Exposé\) anlegen
 
