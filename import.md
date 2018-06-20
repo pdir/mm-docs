@@ -1,8 +1,8 @@
 # Dateien für die Immobiliendaten hochladen
 
-Sie haben die Möglichkeit **eigene Immobiliendaten** oder die **Demodaten** zu importieren.
+Sie haben die Möglichkeit **eigene Immobiliendaten** oder die **Demodaten** zu importieren. Eigene Immobiliendaten können Sie nur mit der Vollversion importieren.
 
-Wenn Sie zuerst die Demodaten herunterladen wollen, wählen Sie in der linken Navigation unter PDIR APPS den Menüpunkt Maklermodul Setup aus und klicken auf den Button Demodaten herunterladen. Anschließend finden Sie die Demodaten in der Dateiverwaltung unter dem Ordner maklermodul/data.
+Wenn Sie zuerst die **Demodaten herunterladen** wollen, wählen Sie in der linken Navigation unter PDIR APPS den Menüpunkt Maklermodul Setup aus und klicken auf den Button Demodaten herunterladen. Anschließend finden Sie die Demodaten in der Dateiverwaltung unter dem Ordner maklermodul/data.
 
 ## Eigene Immobiliendaten importieren
 
