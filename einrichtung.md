@@ -17,8 +17,9 @@ Wählen Sie **Neues Modul** aus und legen ein Modul für die Listenansicht an:
 * Wählen Sie bei **Detailansicht** die entsprechende Seite aus.
 * Wenn kein Template ausgewählt wird, wird standardmäßig das Template **makler\_list** genutzt
 
-![](/img/einrichtung/contao4_modul_listenansicht_anlegen.png)  
+![](/img/einrichtung/contao4_modul_listenansicht_anlegen.png)
 
+Wie Sie Felder und Filter in der Listenansicht anzeigen können, finden Sie auf der Seite [Dargestellte Felder und Filter](/konfiguration.md). Weitere Einstellungsmöglichkeiten finden Sie auf der Seite [Konfiguration der Listenansicht](/sortiermoglichkeiten.md).
 
 #### Modul für die Detailansicht \(Exposé\) anlegen
 
