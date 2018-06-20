@@ -2,13 +2,9 @@
 
 Sie haben die Möglichkeit die Darstellung der Objekteigenschaften für die Filteranzeige in der Listenansicht zu definieren.
 
-Unter **system/modules/makler_modul_mplus/config/filter.ini** können Sie den Typ bzw. die Art wie jede Objekteigenschaft ausgegeben wird beeinflussen.
+Sie können den Typ bzw. die Art wie jede Objekteigenschaft ausgegeben wird beeinflussen, indem Sie eine Datei mit dem Namen **data.filter.ini** in der Dateiverwaltung im Ordner **maklermodul** anlegen.
 
-UPDATE: Ab Version 1.3.0 können Sie die Anpassung update sicher im Datenverzeichnis des Modules vornehmen. Verwenden Sie hierfür die Datei **files/makler_modul_mplus/data.filter.ini**
-
-Ein Beispiel der Anwendung finden Sie unter **files/makler_modul_mplus/data.filter.example**
-
-### Beispiel
+### Beispielinhalt der data.filter.ini
 
 ```
 flaechen.wohnflaeche = 'cssMapRange10'
