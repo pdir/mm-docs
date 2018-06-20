@@ -6,8 +6,10 @@ Sie haben die Möglichkeit Ihre Immobilien in der Listenansicht Ihrer Homepage n
 
 ![](Sortieren.png)
 
-Bei **Feldauswahl** können Sie auswählen, nach welchem Feld sortiert werden soll.<br>
-Bei **Feldtyp** wählen Sie den Feldtyp (Zahl, Gleitkommazahl oder Text) aus.<br>
+Bei **Feldauswahl** können Sie auswählen, nach welchem Feld sortiert werden soll.
+
+Bei **Feldtyp** wählen Sie den Feldtyp (Zahl, Gleitkommazahl oder Text) aus.
+
 Bei **Sortierung** wählen Sie aus ob sie aufsteigend oder absteigend sortieren lassen wollen.
 
 ### Bedingungen
