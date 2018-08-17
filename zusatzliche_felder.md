@@ -13,8 +13,8 @@ $userMapping['verwaltung_techn/user_defined_anyfield/etagenzahl'] = 'anzahl_etag
 Ein Beispiel für Benutzerdefinierte Felder von Immobilienscout:
 
 ```
-$userMapping["verwaltung_techn/user_defined_anyfield/scout_zustand = 'zustand';
-$userMapping["verwaltung_techn/user_defined_anyfield/scout_objektart = 'objektart'; 
-$userMapping['verwaltung_techn/user_defined_anyfield/befeuerungsart'] = 'befeuerung';
-$userMapping['verwaltung_techn/user_defined_anyfield/parkplatz_stellplatz'] = 'stellplatzart';
+$userMapping["verwaltung_techn/user_defined_anyfield/scout_zustand"] = 'zustand';
+$userMapping["verwaltung_techn/user_defined_anyfield/scout_objektart"] = 'objektart'; 
+$userMapping["verwaltung_techn/user_defined_anyfield/befeuerungsart"] = 'befeuerung';
+$userMapping["verwaltung_techn/user_defined_anyfield/parkplatz_stellplatz"] = 'stellplatzart';
 ```
