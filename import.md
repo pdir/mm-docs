@@ -40,3 +40,52 @@ Wenn Sie den Import manuell ausführen wollen, können Sie ihn über das Backend
 
 ![](/img/import/contao4_maklermodul_setup.png)
 
+## Cronjob einrichten
+
+Anbei die beiden Möglichkeiten für die Einrichtung des Crons:
+
+### Poor-Man-Cron
+
+Bitte folgende Datei unter **app/Resources/contao/config/config.php** anlegen wenn nicht vorhanden und folgenden Inhalt einfügen:
+
+```
+<?php
+
+/**
+ * Maklermodul Cron
+ *
+ * see documentation for details
+ * https://docs.maklermodul.de/import.html
+ *
+ */
+$GLOBALS['TL_CRON']['hourly'][] = array('Pdir\MaklermodulSyncBundle\Module\Sync', 'estateImport');
+$GLOBALS['TL_CRON']['hourly'][] = array('Pdir\MaklermodulSyncBundle\Module\Sync', 'estateIndex');
+```
+
+**Mögliche Optionen für die Häufigkeit der Ausführung:**
+
+$GLOBALS\['TL\_CRON'\]\['monthly'\]  
+$GLOBALS\['TL\_CRON'\]\['weekly'\]  
+$GLOBALS\['TL\_CRON'\]\['daily'\]  
+$GLOBALS\['TL\_CRON'\]\['hourly'\]  
+$GLOBALS\['TL\_CRON'\]\['minutely'\]
+
+**Mehr Information zu den Cronjobs in Contao finden Sie hier: **
+
+[https://docs.contao.org/books/cookbook/de/Cronjobs-in-Contao.html](https://docs.contao.org/books/cookbook/de/Cronjobs-in-Contao.html)
+
+**Poor-Man-Cron regelmäßig ausführen:** \(Einrichtung je nach Hosting-Anbieter über die Oberfläche möglich\)
+
+[https://example.org/\_contao/cron](https://example.org/_contao/cron)
+
+### Echter Cronjob auf dem Server
+
+**22 Minuten nach jeder vollen Stunde \(für hourly-Jobs\)**
+
+22 \* \* \* \* wget -O /dev/null -q php php vendor/bin/contao-console maklermodul:import && php vendor/bin/contao-console maklermodul:index
+
+### Manueller Aufruf über die Console
+
+php vendor/bin/contao-console maklermodul:import  
+php vendor/bin/contao-console maklermodul:index
+
