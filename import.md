@@ -24,14 +24,14 @@ Vergewissern Sie sich, dass Sie jQuery geladen haben. Dies können hinzufügen, 
 
 **Files-Ordner anpassen oder Datei nach dem Import nicht erhalten:**
 
-Wenn Sie das files-Verzeichnis geändert haben oder die importierte Datei nach dem Import nicht erhalten möchten, können Sie in der _Dateiverwaltung_ unter dem Ordner maklermodul eine Datei mit dem Namen `php.ini` anlegen. Standardmäßig wird die zu importierende Datei nach dem Import im Ordner `maklermodul/org` abgelegt, wenn Sie die Datei nicht anlegen.
+Wenn Sie das files-Verzeichnis geändert haben oder die importierte Datei nach dem Import erhalten möchten, können Sie in der _Dateiverwaltung_ unter dem Ordner maklermodul eine Datei mit dem Namen `import.ini` anlegen. Dann wird die zu importierende Datei nach dem Import im Ordner `maklermodul/org` abgelegt.
 
 Die Datei könnte wie folgendermaßen aussehen. Mit der Anweisung `keep-source` können Sie einstellen, ob Sie die zu importierende Datei nach dem Import erhalten möchten oder nicht.
 
 ```
 import-source="../../../files/maklermodul/upload"
 import-target="../../../files/maklermodul/data"
-keep-source="false"
+keep-source="true"
 ```
 
 ## Import starten
