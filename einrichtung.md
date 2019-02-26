@@ -47,3 +47,11 @@ Wenn Sie die Module angelegt haben, müssen Sie sie noch die Module in den Artik
 
 
 
+### Einstellungen
+
+* Damit die Verlinkung zur Detailseite funktioniert, muss in den **Einstellungen** unter Frontend-Einstellungen **Auto\_item aktivieren** ausgewählt sein.
+
+![](/img/einrichtung/auto_item_aktivieren.png)
+
+
+
