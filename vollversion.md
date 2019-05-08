@@ -23,7 +23,7 @@ Anschließend fügen Sie **an das Ende der Datei vor der letzten schließenden g
 ]
 ```
 
-`**Beispiel, wie die composer.json für Contao 4.4 aussehen sollte:**
+**Beispiel, wie die composer.json für Contao 4.4 aussehen sollte:**
 
 ```
 {
@@ -62,6 +62,6 @@ Anschließend fügen Sie **an das Ende der Datei vor der letzten schließenden g
 
 ## 2 Pakete und Datenbank aktualisieren ##
 
-Rufen Sie als erstes den **Contao Manager** über die folgende URL auf: www.ihre-domain.de/contao-manager.phar.php. Starten Sie den Contao Manager und wählen Sie die Schaltfläche **Pakete aktualisieren** aus. Anschließend klicken Sie auf **Prüfen & Installieren** und warten den Installations-Prozess ab.
+Rufen Sie anschließend den **Contao Manager** über die folgende URL auf: www.ihre-domain.de/contao-manager.phar.php. Starten Sie den Contao Manager und wählen Sie die Schaltfläche **Pakete aktualisieren** aus. Anschließend klicken Sie auf **Prüfen & Installieren** und warten den Installations-Prozess ab.
 
-Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
+Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank.
