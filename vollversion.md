@@ -2,26 +2,30 @@ Um die Vollversion des Maklermoduls nutzen zu können, benötigen Sie zusätzlic
 
 ## 1 Maklermodul Sync Bundle installieren:
 
-Installieren Sie das Maklermodul Sync Bundle Bundle, indem Sie die Datei **composer.json** im Contao Root-Verzeichnis bearbeiten. An das Ende von `require` fügen Sie die folgende Zeile ein, vergessen Sie dabei nicht nach der vorletzten Zeile ein Komma zu setzen (siehe Beispiel der composer.json).
+Installieren Sie das Maklermodul Sync Bundle, indem Sie die Datei **composer.json** im Contao Root-Verzeichnis bearbeiten. An das Ende von `require` fügen Sie die folgende Zeile ein, vergessen Sie dabei nicht nach der vorletzten Zeile ein Komma zu setzen (siehe Beispiel der composer.json).
 
-Für Contao 4.4 bitte VERSION mit 1.3 ersetzen.
+Für Contao 4.4 bitte VERSION mit 1.3 ersetzen.<br>
 Für Contao 4.6 bitte VERSION mit 2.0 ersetzen.
 
-`"pdir/maklermodul-sync-bundle": "^VERSION"`
+```
+"pdir/maklermodul-sync-bundle": "^VERSION"
+```
 
 Anschließend fügen Sie **an das Ende der Datei vor der letzten schließenden geschweiften Klammer** folgende Zeilen ein und ersetzen Benutzername und Passwort mit den Zugangsdaten, die wir Ihnen bei der Bestell-Email mitgesendet haben. In der Zeile davor muss nach der geschweiften Klammer auch wieder ein Komma gesetzt werden.
 
-`,
+```
+,
 "repositories": [
     {
         "type": "composer",
         "url": "https://BENUTZERNAME:PASSWORT@packages.contao.store"
     }
-]`
+]
+```
 
 `**Beispiel, wie die composer.json für Contao 4.4 aussehen sollte:**
 
-`
+```
 {
     "type": "project",
     "require": {
@@ -54,4 +58,10 @@ Anschließend fügen Sie **an das Ende der Datei vor der letzten schließenden g
         }
     ]
 }
-`
+```
+
+## 2 Pakete und Datenbank aktualisieren ##
+
+Rufen Sie als erstes den **Contao Manager** über die folgende URL auf: www.ihre-domain.de/contao-manager.phar.php. Starten Sie den Contao Manager und wählen Sie die Schaltfläche **Pakete aktualisieren** aus. Anschließend klicken Sie auf **Prüfen & Installieren** und warten den Installations-Prozess ab.
+
+Danach rufen Sie das **Install-Tool** auf und aktualisieren die Datenbank. Im Install-Tool müssen sie noch einen Admin-Benutzeraccount erstellen.
