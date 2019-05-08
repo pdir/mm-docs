@@ -5,6 +5,7 @@
   * [Installation](installation_&_einrichtung.md)
   * [Einrichtung](einrichtung.md)
   * [Import](import.md)
+  * [Vollversion](vollversion.md)
 * [Allgemeine Konfiguration](allgemeine_konfiguration.md)
   * [Bezeichnungen & Übersetzungen](bezeichnungen_&_ubersetzungen.md)
   * [Zusätzliche Felder](zusatzliche_felder.md)
