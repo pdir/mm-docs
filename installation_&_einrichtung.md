@@ -16,7 +16,7 @@ Das Maklermodul ist mit **Contao 4.4 und größer** kompatibel. Um die Demo des 
 * auf **Prüfen & Installieren** klicken und **Änderungen anwenden**
 * Install-Tool aufrufen und Datenbank aktualisieren
 
-Eine Lizenz des Maklermoduls können Sie [hier](https://www.maklermodul.de/bestellformular.html) erwerben. Nachdem Sie die Lizenz erworben und das Maklermodul Bundle installiert haben, können Sie mit den Schritten im Abschnitt **Installation der Maklermodul-Vollversion** fortfahren.
+Eine Lizenz des Maklermoduls können Sie [hier](https://www.maklermodul.de/bestellformular.html) erwerben. Nachdem Sie die Lizenz erworben und das Maklermodul Bundle installiert haben, können Sie mit den Schritten im Abschnitt **Installation der Maklermodul-Vollversion** fortfahren. 
 
 ![](/assets/installation-maklermodul-contao-4.png)
 
