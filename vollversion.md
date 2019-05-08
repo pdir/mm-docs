@@ -4,7 +4,7 @@ Um die Vollversion des Maklermoduls nutzen zu können, benötigen Sie zusätzlic
 
 Installieren Sie das Maklermodul Sync Bundle, indem Sie die Datei **composer.json** im Contao Root-Verzeichnis bearbeiten. An das Ende von `require` fügen Sie die folgende Zeile ein, vergessen Sie dabei nicht nach der vorletzten Zeile ein Komma zu setzen (siehe Beispiel der composer.json).
 
-Für Contao 4.4 bitte VERSION mit 1.3 ersetzen.
+Für Contao 4.4 bitte VERSION mit 1.3 ersetzen.  
 Für Contao 4.6 bitte VERSION mit 2.0 ersetzen.
 
 ```
